@@ -1,0 +1,23 @@
+{
+  "name": "1mg-clone-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viz404/1mg-clone-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viz404/1mg-clone-server/issues"
+  },
+  "homepage": "https://github.com/viz404/1mg-clone-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.1"
+  }
+}
